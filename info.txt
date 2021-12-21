@@ -1,5 +1,4 @@
 Changed !This is information about practise
 New line
 New changes masters
-Updated with bug fix
-Added info for bug and resloved
+
